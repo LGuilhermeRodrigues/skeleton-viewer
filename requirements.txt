@@ -1,0 +1,7 @@
+PyQt5
+PyQt5-tools
+PyQtChart
+numpy
+matplotlib
+pandas
+pyinstaller
